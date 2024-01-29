@@ -1,5 +1,3 @@
-$ git config --global user.name "Diana Chen"
-$ git config --global user.email dc4829@nyu.edu
 # Assignment 1 --- Response of recent newspapers on data-related issue (0130)
 
 In this assignment, I read two recent articles that are related to some database issue. The [**_"GeMSyD: Generic Framework for Synthetic Data Generation"_**](https://www.mdpi.com/2306-5729/9/1/14) article introduces an innovative framework for generating synthetic data, particularly useful in research areas where privacy is a concern. This tool's adaptability and open-source nature make it valuable for creating realistic, confidential data sets. On the other hand, the [**_"China Cybersecurity and Data Protection Monthly Update - January 2024 Issue"_**](https://www.twobirds.com/en/insights/2024/china/china-cybersecurity-and-data-protection-monthly-update-january-2024-issue) article likely discusses updates in China's data protection and cybersecurity regulations, providing insights into legislative changes and their implications for compliance and data security.
